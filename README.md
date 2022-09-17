@@ -30,5 +30,7 @@ app.Run();
 * [ ] [Authorization Code Grant](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-05#section-4.1)
 * [ ] [Client Credentials Grant](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-05#section-4.2)
 * [ ] [Refresh Token Grant](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-05#section-4.3)
+* [ ] [Authorization Server Metadata](https://datatracker.ietf.org/doc/html/rfc8414)
+* [ ] [Extension mechanism for additional grant types](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-05#section-4.4)
 
 ## Contributing
